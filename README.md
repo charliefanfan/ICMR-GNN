@@ -1,6 +1,4 @@
-# KEGNN: Knowledge-Enhanced Graph Neural Networks for User Engagement Prediction  
-**ICMR 2025 (Research Track)**
-
+# KEGNN 
 ---
 
 This repository contains the source code for the paper *"KEGNN: Knowledge-Enhanced Graph Neural Networks for User Engagement Prediction"*, accepted at ICMR 2025.
